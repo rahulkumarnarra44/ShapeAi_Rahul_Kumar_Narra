@@ -1,4 +1,4 @@
-# SHAPEAI PYTHON AND DATA ANALYTICS
+# SHAPEAI PYTHON AND DATA ANALYTICS BootCamp
 Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> SHAPEAI
 </b>.
 The instructor during the session was Nandini Jalan(Ex Data Analyst Intern at google). I got to
